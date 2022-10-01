@@ -4,7 +4,7 @@
 
 1: ( (Verilog, Asm(x), C), ((C++, Ruby), (Lisp, Elixir)) )
 
-2: ( Perl, Ksh, Rust, SQL, JS, HTML/Scss )
+2: ( Perl, Ksh, Julia, SQL, Rust, JS, HTML/Scss )
 
 #solarpunk
 
