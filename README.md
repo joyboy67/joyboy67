@@ -2,7 +2,9 @@
 
 ⚡⚡⚡⚡
 
-( (Verilog, Asm(x), C), ((C++, Ruby), (Lisp, Elixir)) )
+1: ( (Verilog, Asm(x), C), ((C++, Ruby), (Lisp, Elixir)) )
+
+2: ( Perl, Ksh, Rust, SQL, JS, HTML/Scss )
 
 #solarpunk
 
