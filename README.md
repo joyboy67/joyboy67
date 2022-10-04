@@ -7,6 +7,7 @@
 2: ( Perl, Ksh, Julia, SQL, Rust, JS, HTML/Scss )
 
 @balthasar_projet
+https://github.com/joyboy67/balthasar_projet
 #solarpunk
 
 <!--
