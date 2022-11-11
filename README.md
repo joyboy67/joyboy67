@@ -8,6 +8,8 @@
 
 Support: ( (html, scss, js), sql, yaml, toml, json, protobuf, graphql )
 
+Ed: {Emacs Vi Geany Xfw}
+
 @balthasar_projet
 
 https://github.com/joyboy67/balthasar_projet
