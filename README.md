@@ -4,9 +4,9 @@
 
 1: ( (Verilog, Asm(x), C), ((C++, Ruby), (Lisp, Elixir)) )
 
-2: ( Perl, Julia, Nix, Rust )
+2: ( Perl|Ksh, Julia, Nix, Rust )
 
-Support: ( (html, scss, js), ksh, sql, yaml, json, protobuf, graphql )
+Support: ( (html, scss, js), sql, yaml, json, protobuf, graphql )
 
 @balthasar_projet
 
