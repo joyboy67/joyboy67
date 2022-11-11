@@ -6,7 +6,7 @@
 
 2: ( Perl, Julia, Nix, Rust)
 
-Support : ( (html, scss, js), sql, yaml, json, protobuf, graphql )
+Support: ( (html, scss, js), sql, yaml, json, protobuf, graphql )
 
 @balthasar_projet
 https://github.com/joyboy67/balthasar_projet
