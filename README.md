@@ -4,7 +4,7 @@
 
 1: ( (Verilog, Asm(x), C), ((C++, Ruby), (Lisp, Elixir)) )
 
-2: ( Ksh/Perl, Julia, Nix, Rust, Coq )
+2: ( Ksh/Perl, Julia, Nix, Coq )
 
 Support: ( (html, scss, js), sql, yaml, toml, json, protobuf, graphql )
 
