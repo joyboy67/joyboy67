@@ -8,7 +8,7 @@
 
 Support: ( (html, scss, js), sql, yaml, toml, json, protobuf, graphql )
 
->> Ed: {Emacs Vi Geany Xfw}
+>> Ed: {Emacs Vi Geany Xfw <Ed Awk>}
 
 @balthasar_projet
 
