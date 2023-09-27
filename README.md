@@ -12,7 +12,7 @@ Support: ( (html, scss, js), sql, yaml, toml, json, protobuf, graphql )
 
 @balthasar_projet
 
-https://github.com/joyboy67/balthasar_projet
+https://www.instagram.com/balthasar_projet/
 
 #solarpunk
 
