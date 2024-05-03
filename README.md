@@ -2,7 +2,7 @@
 
 ⚡⚡⚡⚡
 
-1: ( (Verilog, Asm(x), C), ((C++, Ruby), (Lisp, Elixir)) )
+1: ( (Verilog/HDL, Asm(x), C), ((C++, Ruby), (Lisp, Elixir)) )
 
 2: ( Ksh/Perl, Julia, Nix, Coq, Zig/Rust/Scala/Nim? )
 
