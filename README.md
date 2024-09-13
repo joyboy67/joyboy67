@@ -2,7 +2,7 @@
 
 ⚡⚡⚡⚡
 
-1: ( (Verilog/HDL, Asm(x), C), ((C++, Ruby), (Lisp, Elixir)) )
+1: ( (Verilog/HDL, Asm(x), C), ((C++, Ruby), (Lisp*, Elixir)) )
 
 2: ( Ksh/Perl, Julia, Coq, Node )
 
@@ -11,6 +11,7 @@
 Support: ( (html, scss, js), sql, yaml, toml, json, protobuf, graphql )
 
 >> Ed: {Emacs Geany Xfw {Vi Ed Awk}}
+>> *Clojure/Scheme
 
 @balthasar_projet
 
