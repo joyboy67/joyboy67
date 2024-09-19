@@ -2,11 +2,11 @@
 
 ⚡⚡⚡⚡
 
-1: ( (Verilog/HDL, Asm(x), C), ((C++, Ruby), (Lisp*, Elixir)) )
+1: ( (Verilog/HDL, Asm(x), C), ((C++, Ruby), (Lisp*, Elixir/Erlang)) )
 
 2: ( Ksh/Perl, Julia, Coq, Node )
 
-3: (Zig/Rust/Scala/Haskell/Nim/Nix?)
+3: (Zig/Rust/Scala/Haskell/Nim/Nix/Lua?)
 
 Support: ( (html, scss, js), sql, yaml, toml, json, protobuf, graphql )
 
