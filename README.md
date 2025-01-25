@@ -4,11 +4,11 @@
 
 1: ( (Verilog/HDL, Asm(x), C), ((C++, Ruby), (Lisp*, Elixir/Erlang)) )
 
-2: ( Ksh/Perl, Julia, Coq, Node )
+2: ( Ksh/Perl, Julia, NodeJS )
 
 3: (Zig/Rust/Scala/Haskell/Nim/Nix/Lua?)
 
-Support: ( (html, scss, js), sql, yaml, toml, json, protobuf, graphql )
+Support: ( (html, scss, js), sql, yaml, toml, json, protobuf, graphql, coq )
 
 >> Ed: {Emacs Geany Xfw {Vi Ed Awk}}
 
