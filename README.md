@@ -4,7 +4,7 @@
 
 1: ( (Verilog/HDL, Asm(x), C), ((C++, Ruby), (Lisp*, Elixir/Erlang)) )
 
-2: ( Ksh/Perl, Julia, NodeJS )
+2: ( Ksh/Perl, NodeJS, Julia )
 
 3: (Zig/Rust/Scala/Haskell/Nim/Nix/Lua?)
 
