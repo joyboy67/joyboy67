@@ -6,9 +6,9 @@
 
 2: ( Ksh/Perl, NodeJS, Haskell )
 
-3: (Zig/Rust/Scala/Nim/Nix/Lua?)
+3: (Zig/Rust/Scala/Nim/Nix/Lua/Julia/R?)
 
-Support: ( (html, scss, js), (Julia), sql, yaml, toml, json, protobuf, graphql, coq )
+Support: ( (html, scss, js), sql, yaml, toml, json, protobuf, graphql, coq )
 
 >> Ed: {Emacs Geany Xfw {Vi Ed Awk}}
 
