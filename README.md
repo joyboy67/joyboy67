@@ -12,7 +12,7 @@ Support: ( (html, scss, js), sql, yaml, toml, json, protobuf, graphql, coq, D2 )
 
 >> Ed: {Emacs Geany Xfw {Vi Ed Awk}}
 
->> *Clojure/Scheme
+>> *Clojure/Scheme/Racket
 
 @balthasar_projet
 
