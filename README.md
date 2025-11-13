@@ -6,7 +6,7 @@
 
 2: ( Ksh/Perl, NodeJS, Haskell )
 
-3: (Zig/Rust/Scala/Nim/Nix/Lua/Julia/R?)
+3: (Zig/Rust/Scala/Nim/Nix/Lua/Julia/R/Prolog?)
 
 Support: ( (html, scss, js), sql, yaml, toml, json, protobuf, graphql, coq, D2 )
 
